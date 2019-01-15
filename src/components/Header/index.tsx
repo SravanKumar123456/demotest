@@ -18,7 +18,7 @@ export class Header extends React.Component {
 
           <li className="nav-item">
             <Link to="/list" className="nav-link">
-              Gowtham
+              Sravan
             </Link>
           </li>
         </div>
